@@ -2,8 +2,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DamirFM&theme=tokyonight-duo&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
-[![Damir's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamirFM&theme=vue-dark)](https://github.com/DamirFM/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamirFM&layout=compact&theme=vue-dark)](https://github.com/DamirFM/github-readme-stats)
 <!--
 **DamirFM/DamirFM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
