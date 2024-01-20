@@ -4,6 +4,7 @@
 
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamirFM&theme=vue-dark)](https://github.com/rmessett15/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamirFM&layout=compact&theme=vue-dark)](https://github.com/rmessett15/github-readme-stats)
 <!--
 **DamirFM/DamirFM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
